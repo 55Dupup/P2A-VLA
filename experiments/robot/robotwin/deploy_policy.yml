@@ -1,0 +1,21 @@
+policy_name: model2robotwin_interface
+task_name: null
+task_config: null
+ckpt_setting: null
+seed: null
+instruction_type: unseen
+
+host: "127.0.0.1"
+port: 5694
+unnorm_key: null
+dataset_name: robotwin_lerobot_unified
+action_mode: "abs"
+normalization_mode: "min_max"
+num_images_in_input: 3
+use_proprio: false
+center_crop: true
+num_open_loop_steps: 16
+n_action_steps: 16
+actions_are_normalized: false
+gripper_convention: "width_0_1"
+use_pro_version: true

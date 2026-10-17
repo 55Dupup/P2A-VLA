@@ -1,0 +1,10 @@
+# Copy this file to robocasa_merged_panda_envs.txt and replace each ENV_NAME
+# with the Panda RoboCasa Gym id available in your RoboCasa installation.
+# Keep the instruction text consistent with the merged LeRobot dataset task strings.
+#
+# Format:
+# ENV_NAME|task language used during training
+#
+# Example placeholders:
+# robocasa/TurnOffSinkFaucet|turn off the sink faucet
+# robocasa/PressMicrowaveStopButton|press the stop button on the microwave

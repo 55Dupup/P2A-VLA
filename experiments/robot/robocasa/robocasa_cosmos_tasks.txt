@@ -1,0 +1,25 @@
+# Cosmos Policy RoboCasa 24-task evaluation list.
+PnPCounterToCab
+PnPCabToCounter
+PnPCounterToSink
+PnPSinkToCounter
+PnPCounterToMicrowave
+PnPMicrowaveToCounter
+PnPCounterToStove
+PnPStoveToCounter
+OpenSingleDoor
+CloseSingleDoor
+OpenDoubleDoor
+CloseDoubleDoor
+OpenDrawer
+CloseDrawer
+TurnOnStove
+TurnOffStove
+TurnOnSinkFaucet
+TurnOffSinkFaucet
+TurnSinkSpout
+CoffeeSetupMug
+CoffeeServeMug
+CoffeePressButton
+TurnOnMicrowave
+TurnOffMicrowave

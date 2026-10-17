@@ -1,0 +1,11 @@
+# Default task list for merged Panda RoboCasa batch evaluation.
+#
+# Fill each line with a RoboCasa Gym environment id available in the local
+# RoboCasa installation and the exact training instruction string.
+#
+# Format:
+# ENV_NAME|task language used during training
+#
+# Examples:
+# robocasa/TurnOffSinkFaucet|turn off the sink faucet
+# robocasa/PressMicrowaveStopButton|press the stop button on the microwave

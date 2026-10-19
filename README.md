@@ -2,7 +2,7 @@
   <h1>P2A-VLA</h1>
   <p><strong>Progressive Perception-to-Action Alignment for Vision-Language-Action Models</strong></p>
   <p>
-    <a href="https://55dupup.github.io/P2A-VLA-offical/">Project Website</a> ·
+    <a href="https://p2a-vla.github.io/">Project Website</a> ·
     <a href="#installation">Installation</a> ·
     <a href="#training">Training</a> ·
     <a href="#evaluation">Evaluation</a> ·
@@ -10,14 +10,14 @@
   </p>
 </div>
 
-P2A-VLA studies progressive alignment between perception and continuous robot actions. This repository contains the research code. The method overview, results, and demonstrations are available on the [project website](https://55dupup.github.io/P2A-VLA-offical/), whose source is maintained in a [separate website repository](https://github.com/55Dupup/P2A-VLA-offical).
+P2A-VLA studies progressive alignment between perception and continuous robot actions. This repository contains the research code. The method overview, results, and demonstrations are available on the [project website](https://p2a-vla.github.io/), whose source is maintained in a [separate website repository](https://github.com/P2A-VLA/P2A-VLA.github.io).
 
 ## Installation
 
 Use Linux, Python 3.10, and a CUDA-capable NVIDIA GPU. Run the commands below from the repository root unless another directory is specified.
 
 ```bash
-git clone https://github.com/55Dupup/P2A-VLA.git
+git clone https://github.com/P2A-VLA/P2A-VLA.git
 cd P2A-VLA
 conda create -n p2a-vla python=3.10 -y
 conda activate p2a-vla
